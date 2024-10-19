@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: rgba(11, 238, 170, 0.541);
+    
+}
+p{
+    font-size: larger;
+}
+body{
+    background: hsla(347, 89%, 61%, 1);
+
+background: linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(347, 89%, 61%, 1) 0%, hsla(242, 42%, 40%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F44369", endColorstr="#3E3B92", GradientType=1 );
+}
+
+li{
+    color: rgb(255, 187, 0);
+}
+video{
+    text-align: 
+    <img src="././Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg" alt="" width="500">
+;
+
+}
